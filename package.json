@@ -1,0 +1,23 @@
+{
+  "name": "my-refocus-assignments",
+  "version": "1.0.0",
+  "description": "Hi, I am Jeamie but you can call me Jhem.\r 26 years old.\r My hobbies are playing videogames, coding and watching KPOP.\r My goal for this year is to become a successful web developer.",
+  "main": "bmi_calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/httpjms/My-Refocus-Assignments..git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/httpjms/My-Refocus-Assignments./issues"
+  },
+  "homepage": "https://github.com/httpjms/My-Refocus-Assignments.#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
